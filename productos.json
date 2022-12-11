@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "price": 50,
+        "title": "Aceite Motul",
+        "image": "./img/motul.jpg",
+        "description": "Aceite semi sintetico primera marca",
+        "category": "aceites",
+        "all": "todos"
+    },
+    {
+        "id": 2,
+        "price": 40,
+        "title": "Aceite Castrol",
+        "image": "./img/castrol.jpg",
+        "description": "Aceite mineral de primera marca",
+        "category": "aceites",
+        "all": "todos"
+    },
+    {
+        "id": 3,
+        "price": 80,
+        "title": "Casco Hawk",
+        "image": "./img/hawk.jpeg",
+        "description": "Casco nacional de excelente calidad",
+        "category": "cascos",
+        "all": "todos"
+    },
+    {
+        "id": 4,
+        "price": 120,
+        "title": "Casco Shark",
+        "image": "./img/shark.jpeg",
+        "description": "Casco importante de primera marca",
+        "category": "cascos",
+        "all": "todos"
+    },
+    {
+        "id": 5,
+        "price": 150,
+        "title": "Neumaticos Michelin",
+        "image": "./img/michelin.jpg",
+        "description": "Neumatico de excelentes prestaciones",
+        "category": "neumaticos",
+        "all": "todos"
+    },
+    {
+        "id": 6,
+        "price": 200,
+        "title": "Neumaticos Pirelli",
+        "image": "./img/pirelli.jpg",
+        "description": "Neumaticos imortados de calidad premium",
+        "category": "neumaticos",
+        "all": "todos"
+    },
+    {
+        "id": 7,
+        "price": 40,
+        "title": "Guantes ProBiker",
+        "image": "./img/probiker.jpg",
+        "description": "Guantes de fabriacion nacional excelente calidad",
+        "category": "guantes",
+        "all": "todos"
+    },
+    {
+        "id": 8,
+        "price": 200,
+        "title": "Guantes HD",
+        "image": "./img/hd.jpg",
+        "description": "Guantes Harley Davidson importados primera marca",
+        "category": "guantes",
+        "all": "todos"
+    }
+]
